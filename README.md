@@ -24,7 +24,8 @@ This is a simple C++ program to calculate the CGPA (Cumulative Grade Point Avera
 
 2. **Run the executable:**
 ./cgpa_calculator   # Linux/Mac
-cgpa_calculator.exe # Windows
+
+_cgpa_calculator.exe # Windows
 
 **📥 Sample Input**
 
