@@ -28,7 +28,7 @@ This is a simple C++ program to calculate the CGPA (Cumulative Grade Point Avera
 
 _cgpa_calculator.exe # Windows
 
-**📥 Sample Input**
+## **📥 Sample Input**
 
 Enter number of courses: 3
 
@@ -44,7 +44,7 @@ Enter name of course 3: Chemistry
 Enter grade for Chemistry: 7.5
 Enter credit hours for Chemistry: 3
 
-**📤 Sample Output**
+## **📤 Sample Output**
 
 --- Course Report ---
 Course              Grade     Credit    
