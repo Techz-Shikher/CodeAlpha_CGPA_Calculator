@@ -42,7 +42,7 @@ Enter name of course 3: Chemistry
 Enter grade for Chemistry: 7.5
 Enter credit hours for Chemistry: 3
 
-📤 **Sample Output**
+**📤 Sample Output**
 
 --- Course Report ---
 Course              Grade     Credit    
